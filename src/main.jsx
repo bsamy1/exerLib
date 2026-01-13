@@ -1,6 +1,7 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import { BrowserRouter } from 'react-router-dom';
+import 'react-horizontal-scrolling-menu/dist/styles.css';
 
 import App from './App';
 
